@@ -18,7 +18,8 @@ buildCube ps' =
 
 
 renderCube :: Float -> Picture
-renderCube t = buildCube
-    [ project3D 500 $ view vectorPart $ initialCube^.centerCube + conjMult cubePoint
-        (exp (t *. initialCube^.rotationAxisCube) * exp (Quaternion 0 0.2 0 0))
-        | cubePoint <- initialCube^.verticesCube ]
+renderCube t = buildCube $ projectCurve3D
+    500
+    (initialCube^.centerCube)
+    (exp (t *. initialCube^.rotationAxisCube) * exp (Quaternion 0 0.2 0 0))
+    (initialCube^.verticesCube)

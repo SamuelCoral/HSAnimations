@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff67b9db-acd5-492f-b197-d41117439886" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Haskell Module" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Wv3BWUr5nGCen2FHyTTXU7JtjH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="scala_project_settings_configurable.last_selected_tab_index" value="1" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Lorenz" />
+      <recent name="$PROJECT_DIR$/src/Math" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run" type="HaskellStackConfigurationType" factoryName="Haskell Stack Runner" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="Cosas3D" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="executable" value="Cosas3D-exe" />
+      <option name="programArgs" value="" />
+      <option name="stackArgs" value="" />
+      <option name="workingDirPath" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="xml" value="XML" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff67b9db-acd5-492f-b197-d41117439886" name="Default Changelist" comment="" />
+      <created>1580016106118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580016106118</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="143" y="60" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580022114353">
+      <screen x="78" y="60" width="1202" height="660" />
+    </state>
+    <state x="143" y="60" key="#com.intellij.execution.impl.EditConfigurationsDialog/78.60.1202.660@78.60.1202.660" timestamp="1580022114353" />
+    <state x="405" y="143" width="624" height="540" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582264386696">
+      <screen x="78" y="60" width="1288" height="708" />
+    </state>
+    <state x="405" y="143" width="624" height="540" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/78.60.1288.708@78.60.1288.708" timestamp="1582264386696" />
+    <state x="495" y="154" key="FileChooserDialogImpl" timestamp="1584597802102">
+      <screen x="78" y="60" width="1288" height="708" />
+    </state>
+    <state x="467" y="148" key="FileChooserDialogImpl/78.60.1202.660@78.60.1202.660" timestamp="1580020304638" />
+    <state x="495" y="154" key="FileChooserDialogImpl/78.60.1288.708@78.60.1288.708" timestamp="1584597802102" />
+    <state width="1246" height="165" key="GridCell.Tab.0.bottom" timestamp="1584950176268">
+      <screen x="78" y="60" width="1288" height="708" />
+    </state>
+    <state width="1160" height="150" key="GridCell.Tab.0.bottom/78.60.1202.660@78.60.1202.660" timestamp="1580064290655" />
+    <state width="1246" height="165" key="GridCell.Tab.0.bottom/78.60.1288.708@78.60.1288.708" timestamp="1584950176268" />
+    <state width="1246" height="165" key="GridCell.Tab.0.center" timestamp="1584950176268">
+      <screen x="78" y="60" width="1288" height="708" />
+    </state>
+    <state width="1160" height="150" key="GridCell.Tab.0.center/78.60.1202.660@78.60.1202.660" timestamp="1580064290654" />
+    <state width="1246" height="165" key="GridCell.Tab.0.center/78.60.1288.708@78.60.1288.708" timestamp="1584950176268" />
+    <state width="1246" height="165" key="GridCell.Tab.0.left" timestamp="1584950176267">
+      <screen x="78" y="60" width="1288" height="708" />
+    </state>
+    <state width="1160" height="150" key="GridCell.Tab.0.left/78.60.1202.660@78.60.1202.660" timestamp="1580064290653" />
+    <state width="1246" height="165" key="GridCell.Tab.0.left/78.60.1288.708@78.60.1288.708" timestamp="1584950176267" />
+    <state width="1246" height="165" key="GridCell.Tab.0.right" timestamp="1584950176268">
+      <screen x="78" y="60" width="1288" height="708" />
+    </state>
+    <state width="1160" height="150" key="GridCell.Tab.0.right/78.60.1202.660@78.60.1202.660" timestamp="1580064290654" />
+    <state width="1246" height="165" key="GridCell.Tab.0.right/78.60.1288.708@78.60.1288.708" timestamp="1584950176268" />
+    <state x="173" y="60" key="SettingsEditor" timestamp="1580064149176">
+      <screen x="78" y="60" width="1202" height="660" />
+    </state>
+    <state x="173" y="60" key="SettingsEditor/78.60.1202.660@78.60.1202.660" timestamp="1580064149176" />
+    <state x="371" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1584927336132">
+      <screen x="78" y="60" width="1288" height="708" />
+    </state>
+    <state x="351" y="218" key="com.intellij.ide.util.TipDialog/78.60.1202.660@78.60.1202.660" timestamp="1580676849943" />
+    <state x="371" y="229" key="com.intellij.ide.util.TipDialog/78.60.1288.708@78.60.1288.708" timestamp="1584927336132" />
+    <state x="513" y="107" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584927148415">
+      <screen x="78" y="60" width="1288" height="708" />
+    </state>
+    <state x="513" y="107" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/78.60.1288.708@78.60.1288.708" timestamp="1584927148415" />
+    <state x="78" y="121" key="new project wizard" timestamp="1584597811597">
+      <screen x="78" y="60" width="1288" height="708" />
+    </state>
+    <state x="78" y="117" key="new project wizard/78.60.1202.660@78.60.1202.660" timestamp="1580020306494" />
+    <state x="78" y="121" key="new project wizard/78.60.1288.708@78.60.1288.708" timestamp="1584597811597" />
+    <state x="342" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1580064243998">
+      <screen x="78" y="60" width="1202" height="660" />
+    </state>
+    <state x="342" y="59" width="672" height="678" key="search.everywhere.popup/78.60.1202.660@78.60.1202.660" timestamp="1580064243998" />
+  </component>
+</project>
